@@ -1,0 +1,56 @@
+function(instance, properties){
+	function _0x3043(_0x2fa065, _0x403963) {
+    const _0x29790f = _0x2979();
+    return _0x3043 = function (_0x3043cb, _0x56e1e3) {
+        _0x3043cb = _0x3043cb - 0x1a2;
+        let _0x3638a7 = _0x29790f[_0x3043cb];
+        return _0x3638a7;
+    }, _0x3043(_0x2fa065, _0x403963);
+}
+(function (_0xdca298, _0x328a8d) {
+    const _0x40f61a = _0x3043, _0x5bf34b = _0xdca298();
+    while (!![]) {
+        try {
+            const _0x429c2f = -parseInt(_0x40f61a(0x1a8)) / 0x1 * (parseInt(_0x40f61a(0x1a7)) / 0x2) + -parseInt(_0x40f61a(0x1a4)) / 0x3 * (parseInt(_0x40f61a(0x1b0)) / 0x4) + -parseInt(_0x40f61a(0x1b3)) / 0x5 + -parseInt(_0x40f61a(0x1a6)) / 0x6 * (parseInt(_0x40f61a(0x1ac)) / 0x7) + -parseInt(_0x40f61a(0x1a3)) / 0x8 + parseInt(_0x40f61a(0x1a9)) / 0x9 + -parseInt(_0x40f61a(0x1ab)) / 0xa * (-parseInt(_0x40f61a(0x1aa)) / 0xb);
+            if (_0x429c2f === _0x328a8d)
+                break;
+            else
+                _0x5bf34b['push'](_0x5bf34b['shift']());
+        } catch (_0xece4b5) {
+            _0x5bf34b['push'](_0x5bf34b['shift']());
+        }
+    }
+}(_0x2979, 0x8a4d2));
+function preview(_0x2d3d86, _0x1ee1bc) {
+    const _0x1c0f11 = _0x3043;
+    let _0x6ff43e = $(_0x1c0f11(0x1a2));
+    _0x2d3d86[_0x1c0f11(0x1ad)]['append'](_0x6ff43e), _0x6ff43e[_0x1c0f11(0x1a5)]('background-color', _0x1c0f11(0x1ae)), _0x6ff43e['height'](_0x1c0f11(0x1af), _0x1ee1bc[_0x1c0f11(0x1b1)]['height']), _0x6ff43e[_0x1c0f11(0x1b2)](_0x1c0f11(0x1b2), _0x1ee1bc[_0x1c0f11(0x1b1)][_0x1c0f11(0x1b2)]);
+}
+function _0x2979() {
+    const _0x43a9da = [
+        'height',
+        '1460mgwkAl',
+        'bubble',
+        'width',
+        '1333585jtskFN',
+        '<div></div>',
+        '8906368pfrkvN',
+        '51ZYrFEv',
+        'css',
+        '36ffDaMF',
+        '92FGxRvB',
+        '4585dSgNms',
+        '5919885HeYIrZ',
+        '28712981KHVztP',
+        '10rVMQsc',
+        '1288497LQJrEj',
+        'canvas',
+        'blue'
+    ];
+    _0x2979 = function () {
+        return _0x43a9da;
+    };
+    return _0x2979();
+}
+	 preview(instance, properties);
+}
