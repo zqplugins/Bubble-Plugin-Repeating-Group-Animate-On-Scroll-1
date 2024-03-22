@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "technical"
+    },
+    "demo_page": "https://animate-on-scroll-demo.bubbleapps.io/version-test",
+    "description": "[🚀 WU Optimized] This plugin allows you to trigger animations on the items of your Repeating Group within your page when they enter/leave the viewport. \n\nYou can choose different animations, delay, duration, and easing so you can control the user experience as your needs.\n\n✔️ FEATURES \n- Choose between 27 types of animations\n- Define delay\n- Define animation duration\n- 100% customizable\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\n🔔 Get our 15 Top Plugins Bundle with 15 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone Input Number with Formatting\n- Advanced Multi Uploader\n- Video Player\n- Dynamic Height & Width of Elements\n- Audio Recorder\n- Repeating Group to CSV\n- Print Pro\n- Advanced Audio Player\n- Easy File Downloader\n\nGet it here: https://zeroqode.com/bundle\n\nDEMO & DOCUMENTATION\nhttps://zeroqode.com/plugin/repeating-group-animate-on-scroll-plugin-for-bubble-1709579043216x336167972985082400\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//meta-q.cdn.bubble.io/f1709578615195x494951813346034240/Repeating%20Group%20Animate%20On%20Scroll.webp",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Repeating Group Animate On Scroll",
+    "plugin_instructions": "1. Go to Settings->General of your application and expose the option to add id attributes to html elements.\n2. Place the element \"RG Animation on scroll\" on your page.\n3. Add unique element IDs to your repeating group that should be targeted by animation. \n4. Choose the animation, delay, duration, and easing. \n5. Make sure the repeating group and \"RG Animation on scroll\" elements are visible at the same time. "
+}

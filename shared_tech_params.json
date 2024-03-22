@@ -1,0 +1,12 @@
+{
+    "assets": {
+        "AAM": {
+            "name": "icon",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1653964178534x275163141539895200/icon-256x256.png"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": "3",
+        "use_jquery": true
+    }
+}
